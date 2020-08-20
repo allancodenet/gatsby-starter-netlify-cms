@@ -9,7 +9,7 @@ We offer up to date detailed guides and consultancy on:
 
 How to open a new KRA PIN
 
-How to file nil returns
+[How to file nil returns](https://jihudumie.netlify.app/blog/2020-08-20-how-to-file-nil-return-returns/)
 
 How to file  returns using P9 form
 
@@ -63,8 +63,6 @@ Procedure of getting a driving license in Kenya
 
 How to apply for  badges in NTSA
 
-
-
 ### KUCCPS
 
 We offer updated  detailed guides and consultancy on:
@@ -76,8 +74,6 @@ How to select  courses in kuccps Kenya
 How to  transfer from admitted institution in kuccps Kenya
 
 How to revise kuccps courses Kenya
-
-
 
 ### HELB
 
