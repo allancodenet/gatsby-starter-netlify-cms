@@ -1,21 +1,22 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Apply government of Kenya online services Yourself
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: Apply government of Kenya online services Yourself
+subheading: Access all services in the comfort of your home
 mainpitch:
-  title: Why Kaldi
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  title: Why Jihudumie
+  description: >+
+    Jihudumie will guide you how to make every application to access government
+    of Kenya services.We let you save money you would pay guiding you how  best
+    to do it yourself. In case you get stuck or you need us to do it for you we
+    are always ready to help.We ensure you applications are free of errors and
+    will not be rejected. 
+
+description: Kaldi is the ultimate spot for coffee lovers who want to learn
+  about their java’s origin and support the farmers that grew it. We take coffee
+  production, roasting and brewing seriously and we’re glad to pass that
+  knowledge to anyone.
 intro:
   blurbs:
     - image: /img/coffee.png
@@ -47,10 +48,11 @@ intro:
         sale. The full price you pay goes to the artist.
   heading: What we offer
   description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+    Jihudumie is for all Kenya citizens with basic computer knowledge required
+    to click through applications.It is also ideal for cyber business or any one
+    who wants to charge for application of government services like KRA or
+    ECITIZEN.Our guides are very detailed and up to date. We also offer tips and
+    tricks on how to access certain services easier.
 main:
   heading: Great coffee with no compromises
   description: >
