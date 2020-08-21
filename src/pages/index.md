@@ -13,10 +13,9 @@ mainpitch:
     are always ready to help.We ensure you applications are free of errors and
     will not be rejected. 
 
-description: Kaldi is the ultimate spot for coffee lovers who want to learn
-  about their java’s origin and support the farmers that grew it. We take coffee
-  production, roasting and brewing seriously and we’re glad to pass that
-  knowledge to anyone.
+description: Jihudumie if for anyone with basic computer skills to click through
+  apllications.it is also ideal for cyber business or any other person charging
+  to apply for customers
 intro:
   blurbs:
     - image: /img/coffee.png
