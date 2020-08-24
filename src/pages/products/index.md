@@ -18,6 +18,10 @@ intro:
       text: we offer detailed guides on everything about KRA services Check our posts
     - image: /img/meeting-space.png
       text: we offer detailed guides on everything about KRA services Check our posts
+    - image: /img/blog-index.jpg
+      text: helb services
+    - image: /img/chemex.jpg
+      text: kuccps services
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
