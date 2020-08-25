@@ -7,7 +7,6 @@ import Testimonials from '../components/Testimonials'
 import Pricing from '../components/Pricing'
 import PreviewCompatibleImage from '../components/PreviewCompatibleImage'
 
-
 export const ProductPageTemplate = ({
   image,
   title,
@@ -55,7 +54,7 @@ export const ProductPageTemplate = ({
               <div className="columns">
                 <div className="column is-7">
                   <h3 className="has-text-weight-semibold is-size-3">
-                     {main.heading}
+                    {main.heading}
                   </h3>
                   <p>{main.description}</p>
                 </div>
@@ -139,6 +138,7 @@ const ProductPage = ({ data }) => {
         title={frontmatter.title}
         heading={frontmatter.heading}
         description={frontmatter.description}
+        intro={frontmatter.intro}
         main={frontmatter.main}
         testimonials={frontmatter.testimonials}
         fullImage={frontmatter.full_image}
