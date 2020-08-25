@@ -6,15 +6,13 @@ import Features from '../components/Features'
 import Testimonials from '../components/Testimonials'
 import Pricing from '../components/Pricing'
 import PreviewCompatibleImage from '../components/PreviewCompatibleImage'
-import Content, { HTMLContent } from '../components/Content'
+
 
 export const ProductPageTemplate = ({
   image,
   title,
   heading,
   description,
-  content,
-  contentComponent,
   intro,
   main,
   testimonials,
@@ -184,7 +182,7 @@ export const productPageQuery = graphql`
                 }
               }
             }
-            content
+            text
           }
           heading
           description
