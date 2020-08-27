@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Apply government of Kenya online services Yourself
-image: /img/home-jumbotron.jpg
+image: /img/main.png
 heading: Apply government of Kenya online services Yourself
 subheading: Access all services in the comfort of your home
 mainpitch:
