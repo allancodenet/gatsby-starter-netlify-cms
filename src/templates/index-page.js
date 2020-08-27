@@ -22,8 +22,9 @@ export const IndexPageTemplate = ({
         backgroundImage: `url(${
           !!image.childImageSharp ? image.childImageSharp.fluid.src : image
         })`,
-        backgroundPosition: `center`,
+        backgroundPosition: `top left`,
         backgroundAttachment: `fixed`,
+        backgroundSize: 'cover', 
       }}
     >
       <div
@@ -39,7 +40,7 @@ export const IndexPageTemplate = ({
         <h1
           className="has-text-weight-bold is-size-3-mobile is-size-2-tablet is-size-1-widescreen"
           style={{
-            color: 'white',
+            color: 'black',
             lineHeight: '1',
             padding: '0.25em',
           }}
@@ -49,7 +50,7 @@ export const IndexPageTemplate = ({
         <h3
           className="has-text-weight-bold is-size-5-mobile is-size-5-tablet is-size-4-widescreen"
           style={{
-            color: 'white',
+            color: 'black'
             lineHeight: '1',
             padding: '0.25em',
           }}
