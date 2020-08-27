@@ -50,7 +50,7 @@ export const IndexPageTemplate = ({
         <h3
           className="has-text-weight-bold is-size-5-mobile is-size-5-tablet is-size-4-widescreen"
           style={{
-            color: 'black'
+            color: 'black',
             lineHeight: '1',
             padding: '0.25em',
           }}
