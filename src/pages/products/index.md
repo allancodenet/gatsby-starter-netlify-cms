@@ -53,30 +53,45 @@ testimonials:
       their stance on empowering farmers and transparency.
 full_image: /img/products-full-width.jpg
 pricing:
-  heading: Monthly subscriptions
-  description: We make it easy to make great coffee a part of your life. Choose
-    one of our monthly subscription plans to receive great coffee at your
-    doorstep each month. Contact us about more details and payment info.
+  heading: Our pricing for detailed guides
+  description: "We offer the cheapest and most flexible prices for our guides and
+    services. We receive the payments through the  MPESA PAYBILL NO : 00000 .
+    After payment send us your email via our email which is xxx@gmail.com or
+    through our WhatsApp number 07000000"
   plans:
-    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
+    - description: This is ideal for those wanting to do anything pertaining revenue
+        and taxes in Kenya. package includes
       items:
-        - 3 lbs of coffee per month
-        - Green or roasted beans"
-        - One or two varieties of beans"
-      plan: Small
-      price: "50"
+        - filing returns
+        - Lost Kra
+        - Vat returns
+      plan: KRA PACKAGE
+      price: 500 Ksh for whole package or 100 @ guide
     - description: Great for avid drinkers, java-loving couples and bigger crowds
       items:
         - 6 lbs of coffee per month
         - Green or roasted beans
         - Up to 4 different varieties of beans
-      plan: Big
-      price: "80"
+      plan: NHIF
+      price: 500 Ksh for whole package or 100 @ guide
     - description: Want a few tiny batches from different varieties? Try our custom plan
       items:
         - Whatever you need
         - Green or roasted beans
         - Unlimited varieties
-      plan: Custom
-      price: ??
+      plan: ecitizen
+      price: 500 Ksh for whole package or 100 @ guide
+    - plan: HELB
+      price: "100"
+      description: EVERYTHING ABOUT HELB
+      items:
+        - apply helb
+        - helb clearance
+    - plan: NTSA
+      price: 500 Ksh for whole package or 100 @ guide
+      description: ALL GUIDES ABOUT NTSA
+      items:
+        - driving license
+        - pdl
+        - smart card.test booking.
 ---
