@@ -25,6 +25,9 @@ export const IndexPageTemplate = ({
         backgroundPosition: `top left`,
         backgroundAttachment: `fixed`,
         backgroundSize: 'cover', 
+        height: '100%',
+        width: '100%',
+        objectFit: 'cover',
        
       }}
     >
