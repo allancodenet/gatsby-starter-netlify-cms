@@ -66,12 +66,14 @@ export const IndexPageTemplate = ({
       </div>
     </div>
     <section className="section section--gradient">
-      <div className="container">
+      <div className="container"  >
         <div className="section">
           <div className="columns">
             <div className="column is-10 is-offset-1">
               <div className="content">
-                <div className="content">
+                <div className="content" style={{
+                  backgroundColor:'rgb(255, 68, 0 , 0.3)',
+                    }}>
                   <div className="tile">
                     <h1 className="title">{mainpitch.title}</h1>
                   </div>
