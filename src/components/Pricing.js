@@ -4,12 +4,14 @@ import PropTypes from 'prop-types'
 const Pricing = ({ data }) => (
   <div className="columns">
     {data.map((price) => (
-      <div key={price.plan} className="column">
+      <div key={price.plan} className="column" style={{
+          display: 'flex',
+        }}>
         <section className="section">
           <h4 className="has-text-centered has-text-weight-semibold">
             {price.plan}
           </h4>
-          <h2 className="is-size-1 has-text-weight-bold has-text-grey has-text-centered">
+          <h2 className="is-size-3 has-text-weight-bold has-text-grey has-text-centered">
             ${price.price}
           </h2>
           <p className="has-text-weight-semibold">{price.description}</p>
