@@ -2,7 +2,7 @@
 heading: Apply government of Kenya online services Yourself
 path: /products
 templateKey: product-page
-title: Our Guides
+title: Our services and products
 image: /img/jumbotron.jpg
 description: Jihudumie if for anyone with basic  computer skills to click
   through apllications.it is also ideal for cyber business or any other person
@@ -11,23 +11,25 @@ intro:
   blurbs:
     - image: /img/coffee.png
       text: >
-        we offer detailed guides on everything about KRA services Check our posts
+        we offer detailed guides and consultancy on everything about KRA
+        services .We also get  all types of returns done.
     - image: /img/coffee-gear.png
-      text: we offer detailed guides on everything about KRA services Check our posts
+      text: we offer all e citizen services.including passport and birth certificate
+        applications
     - image: /img/tutorials.png
-      text: we offer detailed guides on everything about KRA services Check our posts
+      text: we offer conultancy of NHIF and  we help with registration or change of
+        facility.
     - image: /img/meeting-space.png
-      text: we offer detailed guides on everything about KRA services Check our posts
+      text: we offer renewal of driving licenses,application of smart DL, Test booking
+        and vehicle transfer.
     - image: /img/blog-index.jpg
-      text: helb services
+      text: we help with Helb loans application
     - image: /img/chemex.jpg
-      text: kuccps services
+      text: we help with choosing of courses. and transfer to other institutions
   heading: What we offer
   description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+    time saving guides to allow easy applications saving you from headaches,
+    application of all of your services by experts.
 main:
   heading: Apply government of Kenya online services Yourself
   description: Jihudumie will guide you how to make every application to access
@@ -36,62 +38,48 @@ main:
     for you we are always ready to help.We ensure you applications are free of
     errors and will not be rejected.
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
+    alt: a page from our guide
     image: /img/products-grid3.jpg
   image2:
-    alt: A green cup of a coffee on a wooden table
+    alt: most popular KRA guide
     image: /img/products-grid2.jpg
   image3:
-    alt: Coffee beans
+    alt: passport application guide snippet
     image: /img/products-grid1.jpg
 testimonials:
-  - author: Elisabeth Kaurismäki
-    quote: The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
-  - author: Philipp Trommler
-    quote: Kaldi is the place to go if you want the best quality coffee. I love
-      their stance on empowering farmers and transparency.
+  - author: Elizabeth
+    quote: I was spending alot always going to the cyber to file monthly rent income
+      tax,your guides saved me
+  - author: Phillip
+    quote: very detailed  and easy to follow,helped me applying for helb loan
 full_image: /img/products-full-width.jpg
 pricing:
-  heading: Our pricing for detailed guides
+  heading: Our pricing for What we offer
   description: "We offer the cheapest and most flexible prices for our guides and
     services. We receive the payments through the  MPESA PAYBILL NO : 00000 .
     After payment send us your email via our email which is xxx@gmail.com or
     through our WhatsApp number 07000000"
   plans:
-    - description: This is ideal for those wanting to do anything pertaining revenue
-        and taxes in Kenya. package includes
+    - description: You get every guide ,service and consultancy
       items:
-        - filing returns
-        - Lost Kra
-        - Vat returns
-      plan: KRA PACKAGE
-      price: 500 Ksh for whole package or 100 @ guide
-    - description: Great for avid drinkers, java-loving couples and bigger crowds
+        - ecitizen package
+        - kra package
+        - helb package
+      plan: ALL PACKAGES
+      price: "1000"
+    - description: Detailed guides
       items:
-        - 6 lbs of coffee per month
-        - Green or roasted beans
-        - Up to 4 different varieties of beans
-      plan: NHIF
-      price: 500 Ksh for whole package or 100 @ guide
-    - description: Want a few tiny batches from different varieties? Try our custom plan
-      items:
-        - Whatever you need
-        - Green or roasted beans
-        - Unlimited varieties
-      plan: ecitizen
-      price: 500 Ksh for whole package or 100 @ guide
-    - plan: HELB
+        - kra
+        - ecitizen
+        - tims
+        - helb
+      plan: TUTORIALS
+      price: "500 "
+    - plan: services
       price: "100"
-      description: EVERYTHING ABOUT HELB
+      description: we apply service for you
       items:
-        - apply helb
-        - helb clearance
-    - plan: NTSA
-      price: 500 Ksh for whole package or 100 @ guide
-      description: ALL GUIDES ABOUT NTSA
-      items:
-        - driving license
-        - pdl
-        - smart card.test booking.
+        - kra
+        - ntsa
+        - ""
 ---
