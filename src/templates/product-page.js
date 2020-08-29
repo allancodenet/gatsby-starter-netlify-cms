@@ -6,6 +6,7 @@ import Features from '../components/Features'
 import Testimonials from '../components/Testimonials'
 import Pricing from '../components/Pricing'
 import PreviewCompatibleImage from '../components/PreviewCompatibleImage'
+import Payment from '../components/Payment'
 
 export const ProductPageTemplate = ({
   image,
@@ -80,6 +81,9 @@ export const ProductPageTemplate = ({
                   </div>
                 </div>
               </div>
+               <div>
+                 <Payment/>
+               </div>
               <Testimonials testimonials={testimonials} />
               <div
                 className="full-width-image-container"
