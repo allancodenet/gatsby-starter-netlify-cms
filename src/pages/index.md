@@ -26,13 +26,13 @@ intro:
       text: |
         We offer detailed guides on everything about ECITIZEN services
          Check our posts
-    - image: /img/national-transport-and-safety-authority-ntsa-logo-e4f7dc41a9-seeklogo.com.png
+    - image: /img/ntsa-logo.png
       text: |-
         
 
         We offer detailed guides on everything about NTSA services
          Check our posts
-    - image: /img/logo-login-helb.png
+    - image: /img/helb-logo.png
       text: |
         We offer detailed guides on everything about HELB services
          Check our posts
@@ -48,12 +48,12 @@ main:
   description: |
     We also offer one on one consultation with our experts.
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    alt: " sample  from ntsa guide"
+    image: /img/main.png
   image2:
-    alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    alt: sample from kra guide
+    image: /img/main.png
   image3:
-    alt: Coffee beans
-    image: /img/products-grid1.jpg
+    alt: sample  from helb guide
+    image: /img/main.png
 ---
