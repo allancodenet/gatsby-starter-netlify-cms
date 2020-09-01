@@ -16,7 +16,7 @@ intro:
     - image: /img/coffee-gear.png
       text: we offer all e citizen services.including passport and birth certificate
         applications
-    - image: /img/tutorials.png
+    - image: /img/nhif-logo-02f1f3047e-seeklogo.com.png
       text: we offer conultancy of NHIF and  we help with registration or change of
         facility.
     - image: /img/meeting-space.png
@@ -24,7 +24,7 @@ intro:
         and vehicle transfer.
     - image: /img/blog-index.jpg
       text: we help with Helb loans application
-    - image: /img/chemex.jpg
+    - image: /img/kuccps-logo.png
       text: we help with choosing of courses. and transfer to other institutions
   heading: What we offer
   description: >
