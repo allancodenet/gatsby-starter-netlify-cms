@@ -9,20 +9,20 @@ description: Jihudumie if for anyone with basic  computer skills to click
   charging to apply for customers
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/kra_logo.png
       text: >
         we offer detailed guides and consultancy on everything about KRA
         services .We also get  all types of returns done.
-    - image: /img/coffee-gear.png
+    - image: /img/ecitizen-logo.png
       text: we offer all e citizen services.including passport and birth certificate
         applications
     - image: /img/nhif-logo-02f1f3047e-seeklogo.com.png
       text: we offer conultancy of NHIF and  we help with registration or change of
         facility.
-    - image: /img/meeting-space.png
+    - image: /img/national-transport-and-safety-authority-ntsa-logo-e4f7dc41a9-seeklogo.com.png
       text: we offer renewal of driving licenses,application of smart DL, Test booking
         and vehicle transfer.
-    - image: /img/blog-index.jpg
+    - image: /img/logo-login-helb.png
       text: we help with Helb loans application
     - image: /img/kuccps-logo.png
       text: we help with choosing of courses. and transfer to other institutions
@@ -52,7 +52,7 @@ testimonials:
       tax,your guides saved me
   - author: Phillip
     quote: very detailed  and easy to follow,helped me applying for helb loan
-full_image: /img/products-full-width.jpg
+full_image: /img/main.png
 pricing:
   heading: Our pricing for What we offer
   description: "We offer the cheapest and most flexible prices for our guides and
