@@ -3,7 +3,7 @@ heading: Apply government of Kenya online services Yourself
 path: /products
 templateKey: product-page
 title: Our services and products
-image: /img/jumbotron.jpg
+image: /img/products.png
 description: Jihudumie if for anyone with basic  computer skills to click
   through apllications.it is also ideal for cyber business or any other person
   charging to apply for customers
@@ -16,13 +16,13 @@ intro:
     - image: /img/ecitizen-logo.png
       text: we offer all e citizen services.including passport and birth certificate
         applications
-    - image: /img/nhif-logo-02f1f3047e-seeklogo.com.png
+    - image: /img/nhif-logo.png
       text: we offer conultancy of NHIF and  we help with registration or change of
         facility.
     - image: /img/national-transport-and-safety-authority-ntsa-logo-e4f7dc41a9-seeklogo.com.png
       text: we offer renewal of driving licenses,application of smart DL, Test booking
         and vehicle transfer.
-    - image: /img/logo-login-helb.png
+    - image: /img/helb-logo.png
       text: we help with Helb loans application
     - image: /img/kuccps-logo.png
       text: we help with choosing of courses. and transfer to other institutions
@@ -39,13 +39,13 @@ main:
     errors and will not be rejected.
   image1:
     alt: a page from our guide
-    image: /img/products-grid3.jpg
+    image: /img/helb-logo.png
   image2:
     alt: most popular KRA guide
-    image: /img/products-grid2.jpg
+    image: /img/download.jpg
   image3:
     alt: passport application guide snippet
-    image: /img/products-grid1.jpg
+    image: /img/download-1-.jpg
 testimonials:
   - author: Elizabeth
     quote: I was spending alot always going to the cyber to file monthly rent income
@@ -81,5 +81,5 @@ pricing:
       items:
         - kra
         - ntsa
-        - ""
+        - helb
 ---
