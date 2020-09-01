@@ -18,21 +18,21 @@ description: Jihudumie if for anyone with basic computer skills to click through
   to apply for customers
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/kra_logo.png
       text: |
         we offer detailed guides on everything about KRA services
          Check our posts
-    - image: /img/coffee-gear.png
+    - image: /img/ecitizen-logo.png
       text: |
         We offer detailed guides on everything about ECITIZEN services
          Check our posts
-    - image: /img/tutorials.png
+    - image: /img/national-transport-and-safety-authority-ntsa-logo-e4f7dc41a9-seeklogo.com.png
       text: |-
         
 
         We offer detailed guides on everything about NTSA services
          Check our posts
-    - image: /img/meeting-space.png
+    - image: /img/logo-login-helb.png
       text: |
         We offer detailed guides on everything about HELB services
          Check our posts
