@@ -2,7 +2,7 @@
 templateKey: index-page
 title: Apply government of Kenya online services Yourself
 image: /img/new.png
-heading: Apply government of Kenya online services Yourself
+heading: Apply  for government of Kenya online services Yourself
 subheading: Access all services in the comfort of your home
 mainpitch:
   title: Why Jihudumie
@@ -14,28 +14,24 @@ mainpitch:
     will not be rejected. 
 
 description: Jihudumie if for anyone with basic computer skills to click through
-  apllications.it is also ideal for cyber business or any other person charging
-  to apply for customers
+  apllications. It is also ideal for cyber business or any other person charging
+  to apply for customers.We also do the application for any government service.
 intro:
   blurbs:
     - image: /img/kra_logo.png
-      text: |
-        we offer detailed guides on everything about KRA services
-         Check our posts
+      text: |+
+        we offer services on everything about KRA ( Kenya Revenue authority)
+         
     - image: /img/ecitizen-logo.png
       text: |
-        We offer detailed guides on everything about ECITIZEN services
-         Check our posts
+        we offer services on everything about E-citizen services.
     - image: /img/ntsa-logo.png
       text: |-
         
 
-        We offer detailed guides on everything about NTSA services
-         Check our posts
+        we offer services on everything about NTSA services
     - image: /img/helb-logo.png
-      text: |
-        We offer detailed guides on everything about HELB services
-         Check our posts
+      text: we offer services on everything about HELB services
   heading: What we offer
   description: >
     Jihudumie is for all Kenya citizens with basic computer knowledge required
