@@ -83,7 +83,7 @@ pricing:
       plan: TUTORIALS
       price: "500 "
     - plan: SERVICES
-      price: " 100"
+      price: "100"
       description: we apply any government service for you
       items:
         - Filing all returns
