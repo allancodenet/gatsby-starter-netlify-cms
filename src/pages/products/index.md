@@ -87,7 +87,7 @@ pricing:
       description: we apply any government service for you
       items:
         - Filing all returns
-        - Lost KRA recovering
+        - KRA recovering
         - Pin application
         - Hospital change
 ---
