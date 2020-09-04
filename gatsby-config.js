@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: 'jihudumie',
     description:
-      'This platform offers services of government of kenya.Services include: KRA ,ECITIZEN,HELB,NHIF,KUCCPS,NTSA.',
+      'This platform offers services of Kenyan government.Services include: KRA ,ECITIZEN,HELB,NHIF,KUCCPS,NTSA.',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
